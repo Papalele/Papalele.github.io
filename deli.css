@@ -1,0 +1,59 @@
+/* common */
+
+body {
+    margin: 0;
+}
+
+
+h2,p {
+    margin: 0;
+}
+
+
+/* header */
+
+/* section */
+
+
+
+.hiro img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+}
+
+
+.product {
+    padding:80px 0;
+}
+
+.product ul {
+    padding: 0;
+    outline: 2px black solid;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+}
+
+
+.product li {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    outline: solid 2px black;
+
+}
+
+
+
+/* main */
+
+/* footer */
+footer {
+    background: skyblue;
+    text-align: center;
+    bottom: 0;
+    width: 100%;
+}
+
